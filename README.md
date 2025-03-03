@@ -1,6 +1,8 @@
 The Courses
 ==============================
 
+这是一段示例文本，需要引用百度官网作为补充说明[1](@ref)。
+
 
 Here's the new "Learn Spring" course: <br/>
 **[>> LEARN SPRING - THE MASTER CLASS](https://www.baeldung.com/learn-spring-course?utm_source=github&utm_medium=social&utm_content=tutorials&utm_campaign=ls#master-class)**
@@ -85,7 +87,7 @@ To run the integration tests, use the command:
 
 depending on the list where our module exists
 
-这是一段示例文本，需要引用百度官网作为补充说明[1](@ref)。
+
 
 [1](@ref): [百度官网](https://baidu.com)
 
