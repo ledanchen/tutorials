@@ -85,6 +85,10 @@ To run the integration tests, use the command:
 
 depending on the list where our module exists
 
+这是一段示例文本，需要引用百度官网作为补充说明[1](@ref)。
+
+[1](@ref): [百度官网](https://baidu.com)
+
 
 
 
